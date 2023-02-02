@@ -1,1 +1,2 @@
 # jenkinsnew
+printenv"abs"
